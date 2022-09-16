@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi Jagtap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu2108" alt="pallu2108" /></a> </p>
 
