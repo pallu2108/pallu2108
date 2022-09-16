@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi Jagtap</h1>
-<img alt="coding" width="400" padding-left="450px" src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img alt="coding" width="400" paddingLeft="500px" src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
