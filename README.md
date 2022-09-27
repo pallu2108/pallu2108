@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jagtappallavi73@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ASA7HaPAKWP5mf4e81f1bk525nM-FBLP/view?usp=sharing](https://drive.google.com/file/d/1ASA7HaPAKWP5mf4e81f1bk525nM-FBLP/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1ASA7HaPAKWP5mf4e81f1bk525nM-FBLP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
