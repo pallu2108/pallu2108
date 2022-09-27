@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Jagtap</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center"><img alt="coding" width="400" align="center" src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif"></p>
+<p align="center"><img alt="coding" width="100%" height="300px" align="center" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu2108" alt="pallu2108" /></a> </p>
 
