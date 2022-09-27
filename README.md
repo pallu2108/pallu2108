@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallu2108&show_icons=true&locale=en" alt="pallu2108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallu2108&" alt="pallu2108" /></p>
+<div align="left">
+<img alt="pallavi-Jagtap" src="https://activity-graph.herokuapp.com/graph?username=pallu2108&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+  </div>
