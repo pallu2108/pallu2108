@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pallavi Jagtap</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <p align="center"><img alt="coding" width="100%" height="300px" align="center" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"></p>
+<h3 align="center">A passionate Full stack web developer from India who loves challenges and ready to take on new responsibility. I am a problem solver and I love to work in a team but, that doesn't make me a less an individual contributor. It would be great to work with new technology. It's simple you wanna grow just don't leave learning and embrace new challenges.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu2108" alt="pallu2108" /></a> </p>
 
