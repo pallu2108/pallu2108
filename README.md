@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Jagtap</h1>
 
 
-<p align="center"><img alt="coding" width="100%" height="300px" align="center" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"></p>
+<p align="center"><img alt="coding" width="80%" height="400px" align="center" src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I="></p>
 <h3 align="center">A passionate Full stack web developer from India who loves challenges and ready to take on new responsibility. I am a problem solver and I love to work in a team but, that doesn't make me a less an individual contributor. It would be great to work with new technology. It's simple you wanna grow just don't leave learning and embrace new challenges.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu2108" alt="pallu2108" /></a> </p>
